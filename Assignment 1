@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Web Assignment 1! </title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="container"> 
+      <div class="toppane"> </div>
+      <div class="leftpane"></div>
+      <div class="middlepane"></div>
+      <div class="bottompane"></div>
+      <div class="rightpane"></div>
+    </div>
+    
+  </body>
+</html>
