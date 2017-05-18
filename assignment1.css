@@ -1,0 +1,47 @@
+
+body{ 
+  align-content: center;
+  padding: 10px 5% 10px 5%;
+ 
+  max-width: 100%;
+  min-width: 400px; 
+} 
+.container{ 
+  border-style: solid;
+  border-color: black ;
+  border-width: 1px ;
+  
+} 
+.toppane { 
+  background-color: red;
+  height: 50px;
+} 
+
+.leftpane{
+  width: 15%;
+  height: 300px;
+  background-color: yellow; 
+  float: left;
+}
+
+.middlepane{
+
+  width:70%;
+  background-color: blue; 
+  height: 250px ;
+  float: left;
+}
+.rightpane{
+  
+  width: 15%;
+  height: 300px;
+  margin-left: 85%;
+  background-color: yellow;
+  float: none;
+}
+.bottompane{
+  width:70%;
+  background-color: green; 
+  height: 50px ;
+  float: left;
+}
