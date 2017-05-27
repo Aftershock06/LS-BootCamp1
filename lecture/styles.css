@@ -1,0 +1,21 @@
+body{
+  margin:0;
+}
+
+.navbar{
+  background:red;
+  height: 100px;
+}
+
+.mainContent{
+  height:700px;
+  margin-left: 20%;
+  margin-right: auto;
+  width:60%;
+  background:blue;
+}
+.footer{
+  background:yellow;
+  height:100px;
+
+}
